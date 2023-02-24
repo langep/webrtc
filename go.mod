@@ -15,6 +15,5 @@ require (
 	github.com/pion/srtp v1.2.6
 	github.com/pion/transport v0.8.10
 	github.com/stretchr/testify v1.4.0
-	golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413 // indirect
-	golang.org/x/net v0.0.0-20191207000613-e7e4b65ae663 // indirect
+	golang.org/x/net v0.7.0 // indirect
 )
